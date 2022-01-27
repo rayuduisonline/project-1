@@ -1,0 +1,12 @@
+git inint 
+git config --global user .name "my name"
+got config --global user .email "b....."
+git status
+touch file1
+ls
+git status 
+git add file1
+git status 
+git commit -m "vasu" file1
+git log 
+git show cid
