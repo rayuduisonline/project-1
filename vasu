@@ -10,3 +10,40 @@ git status
 git commit -m "vasu" file1
 git log 
 git show cid
+
+
+git inint 
+git config --global user .name "my name"
+got config --global user .email "b....."
+git status
+touch file1
+ls
+git status 
+git add file1
+git status 
+git commit -m "vasu" file1
+git log 
+git show cid
+
+
+
+
+
+-------------------------------------------
+touch file1 file2 file3
+git status 
+ls
+git add .
+git status
+git commit -m "vasu"
+git log 
+git show cid
+
+--------------------------------------------
+git clone rep id
+ls
+cd project -1
+touch file1
+git add .
+git commit -m "vasu"
+git push
